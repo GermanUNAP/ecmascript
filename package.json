@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "learning cmascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanUNAP/ecmascript.git"
+  },
+  "keywords": [
+    "jacvascript",
+    "ecmascript"
+  ],
+  "author": "German Oliver Chura Condori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GermanUNAP/ecmascript/issues"
+  },
+  "homepage": "https://github.com/GermanUNAP/ecmascript#readme"
+}
